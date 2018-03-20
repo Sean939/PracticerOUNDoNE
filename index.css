@@ -1,0 +1,13 @@
+.box {
+	background-color: red;
+	height: 500px;
+	width: 500px;
+	position: relative;
+}
+
+.title {
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+
+}
